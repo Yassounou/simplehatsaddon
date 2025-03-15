@@ -4988,7 +4988,7 @@
     "season": "NONE",
     "Dye Settings": {
       "enabled": true,
-      "decimal color": 0
+      "decimal color": 16777215
     },
     "Particle Settings": {
       "enabled": false,
