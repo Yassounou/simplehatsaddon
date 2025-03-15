@@ -4998,7 +4998,7 @@
     }
   
   },
-  "adventure_hatddd": {
+  "testadd1": {
     "name": "adventure_hat",
     "rarity": "COMMON",
     "weight": 5,
@@ -5006,7 +5006,7 @@
     "season": "NONE",
     "Dye Settings": {
       "enabled": true,
-      "decimal color": 0
+      "decimal color": 16777215
     },
     "Particle Settings": {
       "enabled": false,
@@ -5014,5 +5014,25 @@
       "frequency": 0.0,
       "movement": "TRAILING_FULL"
     }
+  
+  
+  },
+  "testadd2": {
+    "name": "adventure_hat",
+    "rarity": "COMMON",
+    "weight": 5,
+    "variants": 0,
+    "season": "NONE",
+    "Dye Settings": {
+      "enabled": true,
+      "decimal color": 16777215
+    },
+    "Particle Settings": {
+      "enabled": false,
+      "name": "minecraft:heart",
+      "frequency": 0.0,
+      "movement": "TRAILING_FULL"
+    }
+  
   }
 }
