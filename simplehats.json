@@ -4962,39 +4962,5 @@
       "frequency": 0.0,
       "movement": "TRAILING_FULL"
     }
-  },
-  "worm_hat": {
-    "name": "worm_hat",
-    "rarity": "COMMON",
-    "weight": 5,
-    "variants": 0,
-    "season": "NONE",
-    "Dye Settings": {
-      "enabled": false,
-      "decimal color": 0
-    },
-    "Particle Settings": {
-      "enabled": false,
-      "name": "minecraft:heart",
-      "frequency": 0.0,
-      "movement": "TRAILING_FULL"
-    }
-  },
-  "d": {
-    "name": "worm_hat",
-    "rarity": "COMMON",
-    "weight": 5,
-    "variants": 0,
-    "season": "NONE",
-    "Dye Settings": {
-      "enabled": false,
-      "decimal color": 0
-    },
-    "Particle Settings": {
-      "enabled": false,
-      "name": "minecraft:heart",
-      "frequency": 0.0,
-      "movement": "TRAILING_FULL"
-    }
   }
 }
