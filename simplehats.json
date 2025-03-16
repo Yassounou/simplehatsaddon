@@ -4998,40 +4998,22 @@
     }
   
   },
-  "testadd1": {
-    "name": "adventure_hat",
-    "rarity": "COMMON",
+  "alex_terrible_mask_ml": {
+    "name": "alex_terrible_mask_ml",
+    "rarity": "EPIC",
     "weight": 5,
     "variants": 0,
     "season": "NONE",
     "Dye Settings": {
       "enabled": true,
-      "decimal color": 16777215
+      "decimal color": 16711680
     },
     "Particle Settings": {
-      "enabled": false,
-      "name": "minecraft:heart",
-      "frequency": 0.0,
-      "movement": "TRAILING_FULL"
-    }
-  
-  
-  },
-  "testadd2_yassou": {
-    "name": "adventure_hat",
-    "rarity": "COMMON",
-    "weight": 5,
-    "variants": 0,
-    "season": "NONE",
-    "Dye Settings": {
       "enabled": true,
-      "decimal color": 16777215
-    },
-    "Particle Settings": {
-      "enabled": false,
-      "name": "minecraft:heart",
-      "frequency": 0.0,
-      "movement": "TRAILING_FULL"
+      "name": "minecraft:small_flame",
+      "frequency": 0.03,
+      "movement": "TRAILING_HEAD"
+    
     }
   
   }
